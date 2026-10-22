@@ -4,5 +4,9 @@ function soma(numeroA, numeroB){
 function subtrair(numeroA,numeroB){
     return numeroA - numeroB
 }
+function multiplicacao(numeroA,numeroB){
+    return numeroA * numeroB;
+}
 console.log(soma(5,10))
 console.log(subtrair(10,4));
+console.log(multiplicacao(9,234))
